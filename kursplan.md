@@ -28,7 +28,7 @@ C = casegjennomgang
 |27. september|C2   | Case 2: BNP og CO2-utslipp  |DC |  [lenke til case](case.md) |
 |27. september|*utdeling*| Mappeoppgave |  | [Oppgave](/eksamen/mappeoppgave.md){:target='_blank_'}|
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|7. oktober|S1| Seminar 1: BNP, vekst, og økonomiske systemer | DC |[Oppgaver](/seminar/s1.md){:target='_blank_'}<br> [Notater](/seminar/SOK_1004_h23_Seminar_1_ ekstra.pdf){:target='_blank_'} |
+|7. oktober|S1| Seminar 1: BNP, vekst, og økonomiske systemer | DC |[Oppgaver](/seminar/s1.md){:target='_blank_'} |
 |9. oktober|F8   | Økonomisk vekst, befolkningsvekst og produktivitet | DC | [Ressursside](/ressurssider/F8.md){:target='_blank_'}   |
 |18. oktober| S2  | Seminar 2: Gjennomgang case 1 og 2 |  |  |
 |23. oktober| S3  | Seminar 3: Begreper, vekst, produktivitet | DC |[Oppgaver](/seminar/s3.md){:target='_blank_'}  |
