@@ -1,8 +1,10 @@
 {% include navbar.html %}
 
-# Last ned caseoppgaver her        
+# SOK-1004 H24 Casedokument
 
-## For å få med hele qmd fila (inkludert evt YAML) kan du høyreklikke på lenken, lagre som ei fil i din egen mappe, og åpne derfra.         
+## Last ned caseoppgaver her        
+
+### For å få med hele qmd fila (inkludert evt YAML) kan du høyreklikke på lenken, lagre som ei fil i din egen mappe, og åpne derfra.         
 
 [Case 1: BNP](https://raw.githubusercontent.com/uit-sok-1004-h24/uit-sok-1004-h24.github.io/main/case/SOK1004_C1_H24.qmd)
 
