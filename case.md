@@ -10,7 +10,7 @@
 
 [Case 2: BNP og CO2](https://raw.githubusercontent.com/uit-sok-1004-h24/uit-sok-1004-h24.github.io/main/case/SOK1004_C2_H24.qmd)
 
-[Case 3: Kraftpriser og KPI](https://raw.githubusercontent.com/uit-sok-1004-h24/uit-sok-1004-h24.github.io/main/case/SOK1004_C3_H24.qmd)
+[Case 3: Matpriser og KPI](https://raw.githubusercontent.com/uit-sok-1004-h24/uit-sok-1004-h24.github.io/main/case/SOK1004_C3_H24.qmd)
 
 [Case 4: Fordeling over FoU-kostnader](https://raw.githubusercontent.com/uit-sok-1004-h24/uit-sok-1004-h24.github.io/main/case/SOK1004_C4_H24.qmd)
 
