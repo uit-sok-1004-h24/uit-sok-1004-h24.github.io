@@ -27,7 +27,9 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 
 - [The Economy 2.0: Microeconomics - CORE](https://www.core-econ.org/project/the-economy-2-0-microeconomics/){:target="blank"}
-- [R for Data Science - Hadley Wickham & Garrett Grolemund](https://r4ds.hadley.nz/){:target="blank"}
+- [R for Data Science (2e) - Hadley Wickham, Mine Çetinkaya-Rundel, & Garrett Grolemund.](https://r4ds.hadley.nz/){:target="blank"}
+- [Learn RStudio IDE: Quick, Effective, and Productive Data Science - Matthew Campbell](https://link-springer-com.mime.uit.no/book/10.1007/978-1-4842-4511-8){:target="blank"}
+
 
 ## Obligatorisk online kurs i informasjonskompetanse  
 Alle studenter på bachelorstudiet i Samfunnsøkonomi med datavitenskap må bestå et online kurs i informasjonskompetanse (iKomp).     
