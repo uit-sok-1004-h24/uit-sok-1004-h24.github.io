@@ -5,7 +5,10 @@
 F = forelesning      
 V = skriveverksted        
 S = seminar       
-C = casegjennomgang   
+C = casegjennomgang               
+
+DC - Derek Clark
+JA - Jonas Andersen
 
      
 
@@ -30,7 +33,7 @@ C = casegjennomgang
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |7. oktober|S1| Seminar 1: BNP, vekst, og økonomiske systemer | DC |[Oppgaver](/seminar/s1.md){:target='_blank_'} |
 |9. oktober|F8   | Økonomisk vekst, befolkningsvekst og produktivitet | DC | [Ressursside](/ressurssider/F8.md){:target='_blank_'}   |
-|18. oktober| S2  | Seminar 2: Gjennomgang case 1 og 2 |  |  |
+|18. oktober| S2  | Seminar 2: Gjennomgang case 1 og 2 | JA |  |
 |23. oktober| S3  | Seminar 3: Begreper, vekst, produktivitet | DC |[Oppgaver](/seminar/s3.md){:target='_blank_'}  |
 |24. oktober|**Frist**    | Innlevering mappeoppgave        | | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 13.00  |
 |25. oktober|C3  | Case 3: Kraftpriser og prisvekst |DC| [lenke til case](case.md)  |
@@ -42,10 +45,10 @@ C = casegjennomgang
 |11. november|**Frist**|Arbeidskrav 5 - Case 4|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave](/eksamen/prosjektoppgave.md){:target='_blank_'} |
 |13. november |C5    | Case 5: Produktivitet |DC | [lenke til case](case.md) |
-|15. november| S4  | Seminar 4: Gjennomgang case 3 og 4 |  |  |
+|15. november| S4  | Seminar 4: Gjennomgang case 3 og 4 | JA |  |
 |20. november| S5  | Seminar 5: Lønn, fritid, og arbeidsinnsats | DC |[Oppgaver](/seminar/s5.md){:target='_blank_'} |
 |20. november|**Frist**|Arbeidskrav 6 - Case 5|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|24. november| S6  | Seminar 6: Gjennomgang case 5 |  |  |
+|24. november| S6  | Seminar 6: Gjennomgang case 5 | JA |  |
 |9. desember |**Frist**  | Prosjektoppgave       |         | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 14.00 |
 
 
