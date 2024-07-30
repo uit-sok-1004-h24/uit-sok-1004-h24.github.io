@@ -15,7 +15,7 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 
 ## Faglærerinfo  
 
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
+- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig) - GitHub brukernavn: derekjclark
 - Studentlærer [Jonas Andersen](mailto:jan127@post.uit.no)
 
 Jonas har kontortid nesten hver uke hvor der kan få hjelp utenom de ordinære timene. Se [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24h&fag=&module[]=SOK-1004-1#week-21){:target="blank"}.
