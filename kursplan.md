@@ -7,7 +7,7 @@ V = skriveverksted
 S = seminar       
 C = casegjennomgang               
 
-DC - Derek Clark
+DC - Derek Clark                     
 JA - Jonas Andersen
 
      
