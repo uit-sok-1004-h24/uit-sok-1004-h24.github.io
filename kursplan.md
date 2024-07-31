@@ -36,7 +36,7 @@ JA - Jonas Andersen
 |18. oktober| S2  | Seminar 2: Gjennomgang case 1 og 2 | JA |  |
 |23. oktober| S3  | Seminar 3: Begreper, vekst, produktivitet | DC |[Oppgaver](/seminar/s3.md){:target='_blank_'}  |
 |24. oktober|**Frist**    | Innlevering mappeoppgave        | | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 13.00  |
-|25. oktober|C3  | Case 3: Kraftpriser og prisvekst |DC| [lenke til case](case.md)  |
+|25. oktober|C3  | Case 3: Matpriser og prisvekst |DC| [lenke til case](case.md)  |
 |28. oktober| S3 (oppgave 2 og 3)  | Seminar 3: Begreper, vekst, produktivitet | DC |[Oppgaver](/seminar/s3.md){:target='_blank_'}  |
 |30. oktober|F9 | Lønn vs. Fritid  | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   | 
 |1. november|**Frist**|Arbeidskrav 4 - Case 3|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
