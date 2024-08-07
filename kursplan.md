@@ -31,7 +31,7 @@ JA - Jonas Andersen
 |27. september|C2   | Case 2: BNP og CO2-utslipp  |DC |  [lenke til case](case.md) |
 |27. september|*utdeling*| Mappeoppgave |  | [Oppgave](/eksamen/mappeoppgave.md){:target='_blank_'}|
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|7. oktober|F8|Grunnleggende begreper i samfunnsøkonomi | DC |[Ressursside](/ressurssider/F8.md){:target='_blank_'} |
+|7. oktober|F8|Institusjoner og organisering av økonomisk aktivitet | DC |[Ressursside](/ressurssider/F8.md){:target='_blank_'} |
 |9. oktober|F9   | Økonomisk vekst, befolkningsvekst og produktivitet | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   |
 |18. oktober| S1  | Seminar 1: Gjennomgang case 1 og 2 | JA |  |
 |23. oktober|   |Ekstra ved behov |  | |
