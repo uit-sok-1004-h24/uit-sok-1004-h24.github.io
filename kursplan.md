@@ -25,7 +25,7 @@ JA - Jonas Andersen
 |11. september|F5   | Bruttonasjonalprodukt og økonomisk aktivitet    | DC   | [Ressursside](ressurssider/F5.md){:target='_blank_'}  |
 |13. september|C1 | Case 1: Bruttonasjonalprodukt - BNP | DC   | [lenke til case](case.md){:target='_blank_'} |
 |16. september| F6     | Økonomisk ulikhet   | DC | [Ressursside](/ressurssider/F6.md){:target='_blank_'}   | 
-|18. september|F7    | Vekst og økonomiske systemer           | DC | [Ressursside](/ressurssider/F7.md){:target='_blank_'}   |
+|18. september|F7    | Vekst og teknologisk fremgang           | DC | [Ressursside](/ressurssider/F7.md){:target='_blank_'}   |
 |20. september|**Frist**|Arbeidskrav 2 - Case 1|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |25. september |V2   | Skriveverksted 2: Quarto  |DC | [Filer](skriveverksted_2.md) |
 |27. september|C2   | Case 2: BNP og CO2-utslipp  |DC |  [lenke til case](case.md) |
