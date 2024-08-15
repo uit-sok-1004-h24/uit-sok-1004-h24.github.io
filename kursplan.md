@@ -21,7 +21,7 @@ JA - Jonas Andersen
 |30. august|F3   | tidyverse, ggplot2  |DC     | [Ressursside](/ressurssider/F3.md){:target='_blank_'}  |
 |2. september|F4    | Reproduserbarhet, Git, Quarto og KI | DC| [Ressursside](/ressurssider/F4.md){:target='_blank_'} |
 |2. september|**Frist**| Arbeidskrav 1 - iKomp|  | Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|4. september|V1   | Skriveverksted 1: Innføring   | DC       | [Notater](/forelesninger/skriveverk_lysbilder.pdf){:target='_blank_'} <br> [Praktisk oppgave](/oppgaver/praktisk_øvelse.pdf){:target='_blank_'} |
+|4. september|V1   | Skriveverksted 1: Innføring   | DC       | [Notater](/forelesninger/SOK-1004_Skriveverksted_1_h24.pdf){:target='_blank_'} <br> [Praktisk oppgave](/oppgaver/praktisk_øvelse.pdf){:target='_blank_'} |
 |11. september|F5   | Bruttonasjonalprodukt og økonomisk aktivitet    | DC   | [Ressursside](ressurssider/F5.md){:target='_blank_'}  |
 |13. september|C1 | Case 1: Bruttonasjonalprodukt - BNP | DC   | [lenke til case](case.md){:target='_blank_'} |
 |16. september| F6     | Økonomisk ulikhet   | DC | [Ressursside](/ressurssider/F6.md){:target='_blank_'}   | 
