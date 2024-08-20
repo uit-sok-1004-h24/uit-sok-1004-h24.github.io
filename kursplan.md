@@ -29,7 +29,7 @@ JA - Jonas Andersen
 |20. september|**Frist**|Arbeidskrav 2 - Case 1|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |25. september |V2   | Skriveverksted 2: Quarto  |DC | Filer lastes ned (clones) fra [GitHub](https://github.com/uit-sok-1004-h24/Skriveverksted_2.git){:target='_blank_'}|
 |27. september|C2   | Case 2: BNP og CO2-utslipp  |DC |  [lenke til case](case.md) |
-|27. september|*utdeling*| Mappeoppgave |  | [Oppgave](/eksamen/mappeoppgave.md){:target='_blank_'}|
+|27. september|*utdeling*| Mappeoppgave |  | [Oppgave kommer](/eksamen/mappeoppgave.md){:target='_blank_'}|
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |7. oktober|F8|Institusjoner og organisering av økonomisk aktivitet | DC |[Ressursside](/ressurssider/F8.md){:target='_blank_'} |
 |9. oktober|F9   | Teknologi, insentiver og økonomisk vekst | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   |
@@ -43,7 +43,7 @@ JA - Jonas Andersen
 |4. november|C4   | Case 4: FoU i norske bedrifter          | DC | [lenke til case](case.md) |
 |6. november |F11  | Arbeidsinnsats og inntekt  | DC         | [Ressursside](/ressurssider/F11.md){:target='_blank_'}   |
 |11. november|**Frist**|Arbeidskrav 5 - Case 4|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave](/eksamen/prosjektoppgave.md){:target='_blank_'} |
+|13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave kommer](/eksamen/prosjektoppgave.md){:target='_blank_'} |
 |13. november |C5    | Case 5: Produktivitet |DC | [lenke til case](case.md) |
 |15. november| S2  | Seminar 2: Gjennomgang case 3 og 4 | JA |  |
 |20. november|   | Ekstra ved behov |  | |
