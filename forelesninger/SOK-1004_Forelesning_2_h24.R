@@ -109,6 +109,16 @@ Wages %>%
   
   + theme_minimal()
 
+# NB dette blir "smør på flesk"
+# ggplot trenger kun "+" på slutten av linjen
+
+Wages %>%
+  
+  ggplot(aes(x=utdanning,y=ukeslønn)) +
+  
+  geom_point() +
+  
+  theme_minimal()
 
 #######################################################################
 ### SPØRSMÅL 3: Hva er det vi ser på? Forklar så konkret som mulig. ###
