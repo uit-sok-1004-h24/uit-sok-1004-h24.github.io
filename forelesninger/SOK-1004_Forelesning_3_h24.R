@@ -53,7 +53,7 @@ filter(co2data,iso_code == "SWE")
 
 ############################################################################
 ### Oppgave 2: Kan du lage en tabell som viser verdiene for Norge mellom ###
-### årene 2018 og 2019? Bruk en pipe! Hint: kjør "1:3" i konsollen ;-)   ### 
+### årene 2018 og 2020? Bruk en pipe! Hint: kjør "1:3" i konsollen ;-)   ### 
 ############################################################################
 
 
