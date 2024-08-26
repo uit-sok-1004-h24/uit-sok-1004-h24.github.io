@@ -15,6 +15,7 @@ library(Ecdat)
 # henter ferdiglagret data
 data(Wages)
 
+# du kan også bruke Ecdat::Wages
 # forklaring: https://rdrr.io/cran/Ecdat/man/Wages.html
 # NB! Les denne.
 
@@ -35,7 +36,7 @@ Wages
 str(Wages)
 
 
-# Int er integer (heltall), num er numeric, 
+# Int er integer (heltall), dbl er double (desimaltall), 
 # Factor er en faktor 
 # (en datatype som brukes til å representere kategoriske data som deles inn i kategorier uten en naturlig orden, 
 # for eksempel kjønn (mann, kvinne)).
