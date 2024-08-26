@@ -86,7 +86,7 @@ liste <- c("Ola", "Geir")
 # kommenter figuren. gir den en god sammenligning?
 
 #############################################################################
-### Oppgave 4: Kan du lage en figur med CO2 utslipp per person for Norge, ###
+### Oppgave 4: Kan du lage en figur fra 1990 med CO2 utslipp per person for Norge, ###
 ### Kina, Frankrike, USA og Saudi Arabia?                                 ###
 #############################################################################
 
