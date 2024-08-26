@@ -72,7 +72,7 @@ Wages %>%
 Wages <- Wages %>%
   mutate(wage = exp(lwage))
 
-# Forklar hva som skjedd her!
+# Forklar hva som skjedde her!
 
 
 # Det ser ut som om wage gir oss lønn pr uke målt i USD.
