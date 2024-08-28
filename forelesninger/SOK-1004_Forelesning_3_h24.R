@@ -101,7 +101,7 @@ countries <- c("Norway", "China", "France", "United States", "Saudi Arabia")
 ### kommandoen arrange() ### 
 ############################
 
-# vi bruker arrange til å lage en ordnet tabell
+# vi bruker arrange() til å lage en ordnet tabell
 
 # eksempel fra forelesningen
 arrange(co2data, co2)
