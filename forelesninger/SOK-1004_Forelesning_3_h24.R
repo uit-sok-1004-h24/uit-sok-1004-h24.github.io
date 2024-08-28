@@ -102,6 +102,12 @@ countries <- c("Norway", "China", "France", "United States", "Saudi Arabia")
 ############################
 
 # vi bruker arrange til å lage en uordnet tabell
+
+# eksempel fra forelesningen
+arrange(co2data, co2)
+
+# prøv med flere variabler
+
 df <- co2data %>%
   arrange(gdp,methane,co2)
 
