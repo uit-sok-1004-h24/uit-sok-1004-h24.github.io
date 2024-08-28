@@ -114,6 +114,28 @@ df <- co2data %>%
 # skriver den ut i konsollen. 
 df
 
+# Eksempel utenom datasettet
+
+df1 <- tibble(x = c(3, 3, 4, 2), y = c("B", "A", "D", "C"))
+
+df1
+
+arranged_df1_x <- df1 %>% arrange(x)
+
+arranged_df1_x
+
+arranged_df2_x <- df1 %>% arrange(desc(x))
+
+arranged_df2_x                                  
+
+arranged_df1_y <- df1 %>% arrange(y)
+
+arranged_df1_y
+
+arranged_df1_x_y <- df1 %>% arrange(x,y)
+
+arranged_df1_x_y
+
 ##########################################################################
 ### Oppgave 5: Beskriv hvordan var co2data arrangert i utgangspunktet. ###
 ### Kan du bruke arrange() til å transformere df tilbake og lagre?     ###
