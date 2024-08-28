@@ -137,7 +137,7 @@ arranged_df1_x_y <- df1 %>% arrange(x,y)
 arranged_df1_x_y
 
 ##########################################################################
-### Oppgave 5: Beskriv hvordan var co2data arrangert i utgangspunktet. ###
+### Oppgave 5: Beskriv hvordan co2data var arrangert i utgangspunktet. ###
 ### Kan du bruke arrange() til å transformere df tilbake og lagre?     ###
 ##########################################################################
 
