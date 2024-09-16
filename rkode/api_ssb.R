@@ -8,6 +8,7 @@ rm(list=ls())
 
 library(rjstat)
 library(httr)
+library(tidyverse)
 
 url <- "https://data.ssb.no/api/v0/no/table/07756/"
 
