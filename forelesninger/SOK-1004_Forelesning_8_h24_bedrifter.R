@@ -1,6 +1,6 @@
 # JSON API spørring til SSB
 
-# SOK-1004 Forelesning 7
+# SOK-1004 Forelesning 8
 # Bedrifter i Tromsø
 
 
@@ -8,6 +8,7 @@ rm(list=ls())
 
 library(rjstat)
 library(httr)
+library(tidyverse)
 
 url <- "https://data.ssb.no/api/v0/no/table/07091/"
 
