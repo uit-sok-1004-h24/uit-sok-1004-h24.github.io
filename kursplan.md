@@ -27,12 +27,13 @@ JA - Jonas Andersen
 |16. september| F6     | Økonomisk ulikhet   | DC | [Ressursside](/ressurssider/F6.md){:target='_blank_'}   | 
 |18. september|F7    | Vekst og teknologisk fremgang           | DC | [Ressursside](/ressurssider/F7.md){:target='_blank_'}   |
 |20. september|**Frist**|Arbeidskrav 2 - Case 1|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|25. september |V2   | Skriveverksted 2: Quarto  |DC | Filer lastes ned (clones) fra [GitHub](https://github.com/uit-sok-1004-h24/Skriveverksted_2.git){:target='_blank_'}|
+|25. september |  F8 | Institusjoner og organisering av økonomisk aktivitet | DC |[Ressursside](/ressurssider/F8.md){:target='_blank_'} |
 |27. september|C2   | Case 2: BNP og CO2-utslipp  |DC |  [lenke til case](case.md) |
 |27. september|*utdeling*| Mappeoppgave |  | [Oppgave kommer](/eksamen/mappeoppgave.md){:target='_blank_'}|
+|30. september | V1| Skriveverksted 1: Innføring  |DC | [Notater](/forelesninger/SOK-1004_Skriveverksted_1_h24.pdf){:target='_blank_'} <br> [Praktisk oppgave - Even S. Hvinden](/forelesninger/SOK-1004_Skriveverksted_1_h24_oppgaver.pdf){:target='_blank_'}|
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|7. oktober|F8|Institusjoner og organisering av økonomisk aktivitet | DC |[Ressursside](/ressurssider/F8.md){:target='_blank_'} |
-|9. oktober|F9   | Teknologi, insentiver og økonomisk vekst | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   |
+|7. oktober|F9| Teknologi, insentiver og økonomisk vekst | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   |
+|9. oktober |V2|  Skriveverksted 2: Quarto  |DC |Quartofiler lastes ned (clones) fra [GitHub](https://github.com/uit-sok-1004-h24/Skriveverksted_2.git){:target='_blank_'}|
 |18. oktober| S1  | Seminar 1: Gjennomgang case 1 og 2 | JA |  |
 |23. oktober|   |Ekstra ved behov |  | |
 |24. oktober|**Frist**    | Innlevering mappeoppgave        | | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 13.00  |
