@@ -14,7 +14,7 @@ axes_1 <- ggplot()+
         panel.background = element_blank(), # hvit bakgrunn
         axis.line = element_line(colour = "black"), # sett inn akselinjer
         axis.title.x = element_text(hjust = 1),
-        axis.title.y = element_text(angle = 0, vjust = 1, hjust=1))+ # juster labels på aksene  
+        axis.title.y = element_text(angle = 0, vjust = 1))+ # juster labels på aksene  
   coord_fixed(ratio = 1)+ # lik skala for x og y aksen
   scale_x_continuous(limits = c(0, 20), expand = c(0, 0))+
   scale_y_continuous(limits = c(0, 20), expand = c(0, 0)) # begrense aksene
@@ -31,8 +31,7 @@ y_0 <- function(x) (2*x^.5)
 
 figur_1 <- axes_1 + labs(title="Produktfunksjon")+
   stat_function(
-    fun=y_0,
-    mapping = aes()
+    fun=y_0
   )+
   annotate("text",x=19,y=10, label=expression(y[0]))
 
@@ -45,8 +44,7 @@ y_1 <- function(x) (4*x^.5)
 figur_2 <- figur_1 + 
   stat_function(
     fun=y_1,
-    mapping = aes(),
-    color="red",
+    color="red"
     )+
   annotate("text",x=19,y=19, label=expression(y[1]))
 
@@ -59,8 +57,7 @@ y_2 <- function(x) (4*x^.75)
 figur_3 <- figur_2 + 
   stat_function(
     fun=y_2,
-    mapping = aes(),
-    color="blue",
+    color="blue"
     )+
   annotate("text",x=7,y=19, label=expression(y[2]))
 
