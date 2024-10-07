@@ -34,12 +34,10 @@ JA - Jonas Andersen
 |4. oktober|**Frist**|Arbeidskrav 3 - Case 2|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |7. oktober|F9| Teknologi, insentiver og økonomisk vekst | DC | [Ressursside](/ressurssider/F9.md){:target='_blank_'}   |
 |9. oktober |V2|  Skriveverksted 2: Quarto  |DC |Quartofiler lastes ned (clones) fra [GitHub](https://github.com/uit-sok-1004-h24/Skriveverksted_2.git){:target='_blank_'}|
+|14. oktober|F10 | Lønn vs. Fritid - Forbrukerens avveininger  | DC | [Ressursside](/ressurssider/F10.md){:target='_blank_'}   | 
 |18. oktober| S1  | Seminar 1: Gjennomgang case 1 og 2 | JA |  |
-|23. oktober|   |Ekstra ved behov |  | |
 |24. oktober|**Frist**    | Innlevering mappeoppgave        | | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 13.00  |
 |25. oktober|C3  | Case 3: Matpriser og prisvekst |DC| [lenke til case](case.md)  |
-|28. oktober|  | Ekstra ved behov | |  |
-|30. oktober|F10 | Lønn vs. Fritid - Forbrukerens avveininger  | DC | [Ressursside](/ressurssider/F10.md){:target='_blank_'}   | 
 |1. november|**Frist**|Arbeidskrav 4 - Case 3|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |4. november|C4   | Case 4: FoU i norske bedrifter          | DC | [lenke til case](case.md) |
 |6. november |F11  | Arbeidsinnsats og inntekt  | DC         | [Ressursside](/ressurssider/F11.md){:target='_blank_'}   |
