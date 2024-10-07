@@ -104,7 +104,7 @@ df_prod <- df_prod %>%
 
 
 # Rebase the index so that 2010 = 100
-# Gir en feilmelding, men bergener likevel
+
 
 rebase_index <- function(data, base_year) {
   base_value <- data %>% filter(år == base_year) %>% pull(index)
