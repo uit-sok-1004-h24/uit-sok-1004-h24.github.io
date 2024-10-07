@@ -138,7 +138,7 @@ df <- bind_rows(df_wage, df_prod_rebased) %>%
 unique_names <- unique(df$statistikkvariabel)
 
 df <- df %>%
-  mutate(statistikkvariabel = ifelse(statistikkvariabel == unique_names[1], "Reallønn", "Bruttoprodukt per timeverk"))
+  mutate(statistikkvariabel = ifelse(statistikkvariabel == unique_names[1], "Bruttoprodukt per timeverk", "Reallønn"))
 
 
 
