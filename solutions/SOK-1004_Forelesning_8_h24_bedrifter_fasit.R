@@ -1,0 +1,246 @@
+# JSON API spørring til SSB
+
+# SOK-1004 Forelesning 8
+# Bedrifter i Tromsø
+
+
+rm(list=ls()) 
+
+library(rjstat)
+library(httr)
+library(tidyverse)
+
+url <- "https://data.ssb.no/api/v0/no/table/07091/"
+
+query <- '{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "agg:KommSummer",
+        "values": [
+          "K-5501"
+        ]
+      }
+    },
+    {
+      "code": "NACE2007",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "01-99",
+          "01",
+          "02",
+          "03",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "41",
+          "42",
+          "43",
+          "45",
+          "46",
+          "47",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "55",
+          "56",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "90",
+          "91",
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "99",
+          "00"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}'
+
+hent_indeks.tmp <- url %>%
+  POST(body = query, encode = "json")
+
+df <-  hent_indeks.tmp %>%
+  content("text") %>%
+  fromJSONstat() %>%
+  as_tibble()
+
+# filtrer for år 2024
+
+df_2024 <- df %>% filter(år == 2024)
+
+# hent ut tallet som viser totalt antall bedrifter
+
+total_bedrifter <- df_2024 %>% 
+  filter(`næring (SN2007)` == "Total") %>% 
+  pull(value)
+
+# regn ut prosent av totalt antall bedrifter
+
+df_2024 <- df_2024 %>%
+  filter(`næring (SN2007)` != "Total") %>%
+  mutate(prosent = (value / total_bedrifter) * 100)
+
+# lag plott
+
+df_2024 %>% 
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter etter næring, Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# veldig uoversiktlig!
+
+# la oss se på andeler som er minst 1%
+
+df_2024 %>% 
+  filter(prosent>=1) %>%
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter (over 1%) etter næring, Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Bedre, men vi behøver ikke bruke plass på "Uoppgitt"
+
+
+df_2024 %>% 
+  filter(prosent>=1) %>%
+  filter(`næring (SN2007)` != "Uoppgitt") %>%
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter (over 1%) etter næring, Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# blir det bedre dersom vi ordner fra størst til minst i figuren?
+
+# bruker fct_reorder fra forcats pakken
+
+# forcats er en del av tidyverse, så vi trenger ikke å laste inn pakken
+
+
+df_2024 %>% 
+  filter(prosent >= 1) %>%
+  filter(`næring (SN2007)` != "Uoppgitt") %>%
+  mutate(`næring (SN2007)` = fct_reorder(`næring (SN2007)`, prosent, .desc = TRUE)) %>%
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter (over 1%) etter næring, Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# til slutt kan vi ta med tallet på stolpen
+
+df_2024 %>% 
+  filter(prosent >= 1) %>%
+  filter(`næring (SN2007)` != "Uoppgitt") %>%
+  mutate(`næring (SN2007)` = fct_reorder(`næring (SN2007)`, prosent, .desc = TRUE)) %>%
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  geom_text(aes(label = round(prosent, 1)), vjust = 1) +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter (over 1%) etter næring, Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# en annen mulighet er å velge ut topp 10 for eksempel
+
+df_topp_10 <- df_2024 %>% 
+  filter(`næring (SN2007)` != "Uoppgitt") %>%
+  arrange(desc(prosent)) %>% 
+  slice(1:10)
+
+# plott med forrige kode (tilpasset)
+
+df_topp_10 %>% 
+  mutate(`næring (SN2007)` = fct_reorder(`næring (SN2007)`, prosent, .desc = TRUE)) %>%
+  ggplot(aes(x = `næring (SN2007)`, y = prosent)) +
+  geom_bar(stat = "identity", fill = "green") +
+  geom_text(aes(label = round(prosent, 1)), vjust = 1) +
+  theme_minimal() +
+  labs(title = "Andel av bedrifter etter næring, topp 10 i Tromsø kommune 2024",
+       x = "Næring",
+       y = "Prosent %") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        axis.text = element_text(size = 12)
+        )
