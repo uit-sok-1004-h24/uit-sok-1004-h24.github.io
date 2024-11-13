@@ -44,8 +44,7 @@ JA - Jonas Andersen
 |11. november|**Frist**|Arbeidskrav 5 - Case 4|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave kommer](/eksamen/prosjektoppgave.md){:target='_blank_'} |
 |13. november |C5    | Case 5: Produktivitet |DC | [lenke til case](case.md) |
-|15. november| S2  | Seminar 2: Gjennomgang case 3 og 4 | JA |  |
-|20. november|   | Ekstra ved behov |  | |
+|15. november| S2  | Seminar 2: Gjennomgang case 3 og 4 | DC |  |
 |20. november|**Frist**|Arbeidskrav 6 - Case 5|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
 |24. november| S3  | Seminar 3: Gjennomgang case 5 | JA |  |
 |9. desember |**Frist**  | Prosjektoppgave       |         | Leveres i [Wiseflow](https://europe.wiseflow.net/login){:target='_blank_'} innen kl 14.00 |
