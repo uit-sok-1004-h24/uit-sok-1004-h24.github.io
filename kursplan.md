@@ -8,7 +8,9 @@ S = seminar
 C = casegjennomgang               
 
 DC - Derek Clark                     
-JA - Jonas Andersen
+JA - Jonas Andersen          
+
+[Lenke til github](https://github.com/uit-sok-1004-h24){:target='_blank_'}  
 
      
 
