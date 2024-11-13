@@ -44,7 +44,7 @@ JA - Jonas Andersen
 |4. november|C4   | Case 4: FoU i norske bedrifter          | DC | [lenke til case](case.md) |
 |6. november |F11  | Arbeidsinnsats og inntekt  | DC         | [Ressursside](/ressurssider/F11.md){:target='_blank_'}   |
 |11. november|**Frist**|Arbeidskrav 5 - Case 4|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
-|13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave kommer](/eksamen/prosjektoppgave.md){:target='_blank_'} |
+|13. november |*utdeling*  | Utdeling av prosjektoppgaven      |        | [Prosjektoppgave](/eksamen/prosjektoppgave_m_forside_sok_1004_h24.pdf){:target='_blank_'} |
 |13. november |C5    | Case 5: Produktivitet |DC | [lenke til case](case.md) |
 |15. november| S2  | Seminar 2: Gjennomgang case 3 og 4 | DC |  |
 |20. november|**Frist**|Arbeidskrav 6 - Case 5|  |Leveres i [Canvas](https://uit.instructure.com/courses/35388/assignments){:target='_blank_'} innen kl 16.00|
